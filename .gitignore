@@ -52,4 +52,7 @@ Mkfile.old
 dkms.conf
 
 # Ignore large archives
-.zip
+*.zip
+
+# Mac
+.DS_Store
